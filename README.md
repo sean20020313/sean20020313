@@ -1,4 +1,4 @@
-
+# HI! I'm Sean
 # 💫 About Me:
 
 I am a student currently learning cloud-related technologies `<br>`
